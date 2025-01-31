@@ -20,16 +20,8 @@ I'm a **Software Engineering undergraduate** with a passion for **web developmen
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [portfolio-link.com](#)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/rashmika-rodrigo/](#)
 - 📧 **Email:** [S22010177@ousl.lk](#)
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashmika-Rodrigo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika-Rodrigo&layout=compact&theme=tokyonight)
 
 ---
 
