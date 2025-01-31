@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there, I'm Rashmika Rodrigo! 👋
 
-<!--
-**W-D-R-R-Rodrigo-S22010177/W-D-R-R-Rodrigo-S22010177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering undergraduate** with a passion for **web development, mobile App development, and databases**. I love solving problems through code and building easy-to-use applications. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Undergraduate** in Software Engineering
+- 💡 Interested in **Web Development, Mobile Appication Development, Java, Python, System Design, and Many More**
+- 📚 Always learning new technologies and improving my coding skills
+
+---
+
+### 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 📫 Connect With Me
+- 🌐 **Portfolio:** [portfolio-link.com](#)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rashmika-rodrigo/](#)
+- 📧 **Email:** [S22010177@ousl.lk](#)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashmika-Rodrigo&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika-Rodrigo&layout=compact&theme=tokyonight)
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!** 
